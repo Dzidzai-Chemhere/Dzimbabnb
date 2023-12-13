@@ -13,10 +13,6 @@
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/fzn0x/mazer-nuxt">NuxtBnB</a> <b>Nuxt</b> is a minimalistic airBnB concept nuxt app that can help you develop faster. Made with Bootstrap 5. No jQuery dependency with Nuxt 3 + TypeScript.
-</p>
-
 ## Table of contents
 
 - [Installation Guide](#installation-guide)
