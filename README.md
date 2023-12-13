@@ -1,6 +1,6 @@
 <div align="center">
 
-# NuxtAirBnB 🚀
+#Dzimbabnb 🚀
 
 </div>
 
