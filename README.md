@@ -26,23 +26,26 @@ $ cd project-name
 After clone the repository and navigate to the folder, you can use few commands below
 
 ```bash
-# enable corepack
-$ corepack enable
-# use recommended version of PNPM (latest)
-$ corepack prepare pnpm@8.6.6 --activate
 
 # install dependencies
-$ pnpm install
+$ install  npm
+$ install npx
+$ 
+#create .env file
+$code .
 
 # serve with hot reload at localhost:3000
-$ pnpm run dev
+$ npm run install
 
+#migrate database
+$npx prisma migrate dev 
 # build for production and launch server
-$ pnpm run build
-$ pnpm run start
+$ npm audit fix --force 
+$ npm run build
+$ npm run dev
+$ npm run dev
 
-# generate static project
-$ pnpm run generate
+
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
