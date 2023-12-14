@@ -9,7 +9,7 @@
 
 - [Installation Guide](#installation-guide)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation Guide
 
