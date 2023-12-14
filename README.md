@@ -1,6 +1,6 @@
 <div align="center">
 
-#Dzimbabnb 🚀
+#Dzimbabnb 
 
 </div>
 
