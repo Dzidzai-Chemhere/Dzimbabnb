@@ -8,7 +8,7 @@
 ## Table of contents
 
 - [Installation Guide](#installation-guide)
-- [Contributing](#contributing)
+
 
 
 ## Installation Guide
