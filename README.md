@@ -43,7 +43,7 @@ $npx prisma migrate dev
 $ npm audit fix --force 
 $ npm run build
 $ npm run dev
-$ npm run dev
+
 
 
 ```
