@@ -4,14 +4,6 @@
 
 </div>
 
-<div align="center">
-
-[![All Contributors](https://img.shields.io/github/contributors/fzn0x/mazer-nuxt)](https://github.com/fzn0x/mazer-nuxt/graphs/contributors)
-![GitHub last commit](https://img.shields.io/github/last-commit/fzn0x/mazer-nuxt.svg)
-![GitHub repo size in bytes](https://img.shields.io/github/repo-size/badges/shields.svg)
-[![License](https://img.shields.io/github/license/fzn0x/mazer-nuxt.svg)](LICENSE)
-
-</div>
 
 ## Table of contents
 
